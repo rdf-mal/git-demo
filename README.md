@@ -1,3 +1,6 @@
 # Git Demo Projekt
 
-Some changes to test the git workflow.
+Some minor changes to test the git workflow.
+
+## Resolve conflicts
+
