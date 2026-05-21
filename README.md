@@ -1,3 +1,3 @@
 # Git Demo Projekt
 
-Some changes to test the git workflow.
+Some more changes to test the git workflow.
